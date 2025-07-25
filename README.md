@@ -1,3 +1,9 @@
+---
+title: code-explainer
+app_file: app.py
+sdk: gradio
+sdk_version: 5.38.1
+---
 # 🧠 Code Explainer Bot
 
 Code Explainer Bot is an AI-powered web application that explains code snippets at different expertise levels (beginner, intermediate, advanced) using OpenAI's GPT-4 model. The app features a simple Gradio interface for easy interaction.
